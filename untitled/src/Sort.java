@@ -1,7 +1,7 @@
 public class Sort {
     public static void main(String[] args) {
         int[] a={2,7,9,5,1,6};
-        //哈哈
+        //哈哈11
         sort(a);
         print(a);
     }
